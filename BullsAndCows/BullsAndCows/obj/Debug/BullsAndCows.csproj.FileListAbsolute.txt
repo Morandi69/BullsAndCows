@@ -1,0 +1,53 @@
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.SuggestedBindingRedirects.cache
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\notox\Documents\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+F:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.SuggestedBindingRedirects.cache
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+D:\C# 5\Быки И Коровы\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\Никита Александрович\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.SuggestedBindingRedirects.cache
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\notox\Documents\BullsAndCows_Completed\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
